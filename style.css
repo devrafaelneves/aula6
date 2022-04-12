@@ -1,0 +1,20 @@
+
+header {
+    height: 50px;
+    color: white;
+    background-color: purple;
+    position: fixed;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+
+}
+
+li {
+    display: inline-block;
+  
+}
+a{
+    color: white;
+    text-decoration: none;
+}
